@@ -1,0 +1,9 @@
+[submodule "thirdparty/iceoryx"]
+	path = thirdparty/iceoryx
+	url = https://github.com/eclipse-iceoryx/iceoryx.git
+[submodule "thirdparty/pps"]
+	path = thirdparty/pps
+	url = https://github.com/weank1984/pps.git
+[submodule "thirdparty/lcm"]
+	path = thirdparty/lcm
+	url = https://github.com/lcm-proj/lcm.git
